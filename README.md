@@ -9,4 +9,4 @@ Paper accepted by ICPR 2020, available at:
 https://www.researchgate.net/publication/344805980_PrivAttNet_Predicting_Privacy_Risks_in_Images_Using_Visual_Attention
 
 ## Model Architecture
-![Alt text](./imgs/PrivAttNet architecture.png?raw=true "PrivAttNet Model")
+![Alt text](./imgs/PrivAttNet_architecture.PNG?raw=true "PrivAttNet Model")

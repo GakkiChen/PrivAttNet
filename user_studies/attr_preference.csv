@@ -1,0 +1,68 @@
+attribute_id,attribute_name,Preference,seq_id
+a1_age_approx,Age Group,2.08,1
+a2_weight_approx,Weight Group,2.9,2
+a3_height_approx,Height Group,2.22,3
+a4_gender,Gender,1.64,4
+a5_eye_color,Eye Color,1.9,5
+a6_hair_color,Hair Color,1.76,6
+a7_fingerprint,Fingerprint,4.66,7
+a8_signature,Signature,4.18,8
+a9_face_complete,Face (Complete),3.04,9
+a10_face_partial,Face (Partial),2.88,10
+a11_tattoo,Tattoo,2.66,11
+a12_semi_nudity,Semi-nudity,4.56,12
+a13_full_nudity,Complete nudity,4.86,13
+a16_race,Race,1.96,14
+a17_color,Color,1.9,15
+a18_ethnic_clothing,Traditional clothing,1.94,16
+a19_name_full,Name (Full),3.5,17
+a20_name_first,Name (First),2.22,18
+a21_name_last,Name (Last),3.24,19
+a23_birth_city,Place of Birth,2.82,20
+a24_birth_date,Date of Birth,3.48,21
+a25_nationality,Nationality,1.94,22
+a26_handwriting,Handwriting,3.08,23
+a27_marital_status,Marital status,2.3,24
+a29_ausweis,National Identification,4.68,25
+a30_credit_card,Credit Card,4.8,26
+a31_passport,Passport,4.64,27
+a32_drivers_license,Drivers License,4.6,28
+a33_student_id,Student ID,4.38,29
+a35_mail,Mail,3.98,30
+a37_receipt,Receipts,4.2,31
+a38_ticket,Tickets,3.96,32
+a39_disability_physical,Physical disability,3.32,33
+a41_injury,Medical Treatment,3.52,34
+a43_medicine,Medical History,4.04,35
+a46_occupation,Occupation,2.32,36
+a48_occassion_work,Work Occassion,2.82,37
+a49_phone,Phone no.,4.06,38
+a55_religion,Religion,2.5,39
+a56_sexual_orientation,Sexual Orientation,2.62,40
+a57_culture,Culture,2.28,41
+a58_hobbies,Hobbies,2.08,42
+a59_sports,Sports,2.04,43
+a60_occassion_personal,Personal Occassion,2.82,44
+a61_opinion_general,General Opinion,2.56,45
+a62_opinion_political,Political Opinion,2.62,46
+a64_rel_personal,Personal Relationships,4.24,47
+a65_rel_social,Social Circle,3.1,48
+a66_rel_professional,Professional Circle,3.34,49
+a67_rel_competitors,Competitors,2.42,50
+a68_rel_spectators,Spectators,2.34,51
+a69_rel_views,Similar view,2.68,52
+a70_education_history,Education history,2.9,53
+a73_landmark,Landmark,2.6,54
+a74_address_current_complete,Previous/Current Location (Complete),3.84,55
+a75_address_current_partial,Previous/Current Location (Partial),3.26,56
+a78_address_home_complete,Home address (Complete),4.36,57
+a79_address_home_partial,Home address (Partial),4.02,58
+a82_date_time,Date/Time of Activity,3.6,59
+a85_username,Username,3.5,60
+a90_email,Email address,3.92,61
+a92_email_content,Email content,4.16,62
+a97_online_conversation,Online conversations,3.6,63
+a99_legal_involvement,Legal involvement,4.12,64
+a102_vehicle_ownership,Personal Vehicle Ownership,2.68,65
+a103_license_plate_complete,License Plate (Complete),4.08,66
+a104_license_plate_partial,License Plate (Partial),3.74,67
